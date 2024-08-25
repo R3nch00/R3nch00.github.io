@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'TAHMID37', // Your GitHub org/user name. (Required)
+    username: 'R3nch00', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 8, // How many projects to display.
     exclude: {
@@ -11,11 +11,11 @@ const config = {
     },
   },
   social: {
-    linkedin: 'trahmanrifat',
+    linkedin: 'o-f-faisal',
     twitter: '',
     mastodon: '',
-    facebook: 'profile.php?id=100010343971752',
-    instagram: 'i.m.tahmid',
+    facebook: '',
+    instagram: '',
     youtube: '', // example: 'pewdiepie'
     dribbble: '',
     behance: '',
@@ -24,9 +24,9 @@ const config = {
     stackoverflow: '', // example: '1/jeff-atwood'
     skype: '',
     telegram: '',
-    website: 'https://tahmid37.github.io/',
-    phone: '+8801739596331',
-    email: 'Tahmid.Rahman@brainstation-23.com',
+    website: 'https://R3nch00.github.io/',
+    phone: '+8801846379259',
+    email: 'omarfaysal458@gmail.com',
   },
   resume: {
     fileUrl:
@@ -34,35 +34,31 @@ const config = {
   },
   skills: [
     'Python',
-    'Django',
-    'Fastapi',
-    'Natural Language Processing (NLP)',
-    'Langchain',
-    'LlamaIndex',
-    'Node.js',
     'MySQL',
-    'PostgreSQL',
     'Git',
-    'Docker',
     'Latex',
     'LLM',
-    'Chatbots',
-    'Pandas',
+    'C++',
+    'C',
+    'HTML',
+    'Oracle'
+    'JavaScript',
+    'R',
+    'MS Office',
   ],
   experiences: [
     {
-      company: 'Brain station 23',
-      position: 'Associate Software Engineer',
-      from: 'December 2023',
-      to: 'Present',
-      companyLink: 'https://brainstation-23.com/',
+      company: 'GAOTek',
+      position: 'Tech Support',
+      from: 'January 2024',
+      to: 'April 2024',
+      companyLink: 'https://gaotek.com/',
     },
     {
-      company: 'Brain station 23',
-      position: 'Data and Ai intern',
-      from: 'May 2023',
-      to: 'July 2023',
-      companyLink: 'https://brainstation-23.com/',
+      company: 'Tuition Bangladesh',
+      position: 'Campus Ambassador',
+      from: 'January 2021',
+      to: 'December 2022',
     },
   ],
   /* certifications: [
@@ -75,10 +71,10 @@ const config = {
   ], */
   education: [
     {
-      institution: 'Islamic University of Technology(IUT)',
+      institution: 'American International University-Bangladesh',
       degree: 'Bachelor of Science in Computer Science',
       from: '2020',
-      to: '2024',
+      to: 'Present',
     },
     
   ],
