@@ -48,7 +48,7 @@ const config = {
   ],
   experiences: [
     {
-      company: 'GAOTek',
+      company: 'GAOTek Inc.',
       position: 'Tech Support',
       from: 'January 2024',
       to: 'April 2024',
