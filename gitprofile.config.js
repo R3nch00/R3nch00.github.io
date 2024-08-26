@@ -41,7 +41,7 @@ const config = {
     'C++',
     'C',
     'HTML',
-    'Oracle'
+    'Oracle',
     'JavaScript',
     'R',
     'MS Office',
@@ -76,7 +76,6 @@ const config = {
       from: '2020',
       to: 'Present',
     },
-    
   ],
 
   // To hide the `My Projects` section, keep it empty.
