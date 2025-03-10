@@ -105,11 +105,16 @@ social: {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Data Analysis with Python – IBM',
+      year: 'Januray 2024',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/MX8ZX936L7G4',
     },
+    {
+      name: 'Databases and SQL for Data Science with Python - IBM',
+      year: 'December 2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/E5WQB2JXF2LB',
+    },
+    
   ],
   educations: [
     {
@@ -121,14 +126,14 @@ social: {
     },
     {
       institution: 'Adamjee Cantonment College',
-      degree: 'Higher Secondary School Certificate (HSC)',
+      degree: 'HIGHER SECONDARY SCHOOL CERTIFICATE (HSC)',
       from: '2017',
       to: '2019',
       GPA: '5.00/5.00',
     },
     {
       institution: 'Adamjee Cantonment Public School',
-      degree: 'Secondary School Certificate (SSC)',
+      degree: 'SECONDARY SCHOOL CERTIFICATE (SSC)',
       from: '2015',
       to: '2017',
       GPA: '5.00/5.00',
