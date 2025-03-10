@@ -114,7 +114,21 @@ social: {
       year: 'December 2023',
       link: 'https://www.coursera.org/account/accomplishments/certificate/E5WQB2JXF2LB',
     },
-    
+    {
+      name: 'Introduction to Structured Query Language (SQL) - University of Michigan',
+      year: 'December 2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/JW8U8AJHKX5F',
+    },
+    {
+      name: 'Software Development Processes andMethodologies - University of Minnesota',
+      year: 'December 2023',
+      link: 'https://www.coursera.org/account/accomplishments/certificate/MH6Q2HMMVG3T',
+    },
+    {
+      name: 'Google Cybersecurity - Google',
+      year: 'December 2023',
+      link: 'https://www.coursera.org/account/accomplishments/specialization/certificate/6KMU4N9AUJ5R',
+    },
   ],
   educations: [
     {
