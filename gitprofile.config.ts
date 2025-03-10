@@ -56,49 +56,17 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
-const social = {
-    linkedin: 'ariful-alam',
+social: {
+    linkedin: 'o-f-faisal',
     x: '@OmarFaysal10',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: 'omar-faysal',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    leetcode: 'R3nch00',
-    phone: '',
+    udemy: 'omar-faysal-2',
+    LeetCode: 'R3nch00',
+    HackerRank: 'omarfaysal458',
+    Codeforcces: '',
+    //website: 'https://www.arifszn.com',
+    phone: '+880 1846379259',
     email: 'omarfaysal458@gmail.com',
-};
-
-// HTML to render clickable links
-const htmlContent = `
-  <div>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/ariful-alam" target="_blank">${social.linkedin}</a>
-  </div>
-  <div>
-    <!-- X (formerly Twitter) -->
-    <a href="https://twitter.com/OmarFaysal10" target="_blank">${social.x}</a>
-  </div>
-  <div>
-    <!-- Udemy -->
-    <a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">${social.udemy}</a>
-  </div>
-  <div>
-    <!-- LeetCode -->
-    <a href="https://leetcode.com/u/R3nch00/" target="_blank">${social.leetcode}</a>
-  </div>
-`;
+  },
 
   resume: {
     fileUrl:
