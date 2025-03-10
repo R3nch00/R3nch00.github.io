@@ -2,7 +2,7 @@
 
 const CONFIG = {
   github: {
-    username: 'R3nch00', // Your GitHub org/user name. (This is the only required config)
+    username: 'r3nch00', // Your GitHub org/user name. (This is the only required config)
   },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
@@ -52,30 +52,31 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of MD. Omar Faruk Faisal',
     description: '',
     imageURL: '',
   },
   social: {
-    linkedin: 'ariful-alam',
-    x: 'arif_szn',
-    mastodon: 'arifszn@mastodon.social',
-    researchGate: '',
-    facebook: '',
-    instagram: '',
-    reddit: '',
-    threads: '',
-    youtube: '', // example: 'pewdiepie'
-    udemy: '',
-    dribbble: '',
-    behance: '',
-    medium: 'arifszn',
-    dev: 'arifszn',
-    stackoverflow: '', // example: '1/jeff-atwood'
-    skype: '',
-    telegram: '',
-    website: 'https://www.arifszn.com',
-    phone: '',
+    linkedin: '<a href="https://www.linkedin.com/in/o-f-faisal/" target="_blank">o-f-faisal</a>',
+    x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
+    //mastodon: 'arifszn@mastodon.social',
+    //researchGate: '',
+    //facebook: '',
+    //instagram: '',
+    //reddit: '',
+    //threads: '',
+    //youtube: '', // example: 'pewdiepie'
+    udemy: '<a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">omar-faysal</a>',
+    //dribbble: '',
+    //behance: '',
+    //medium: 'arifszn',
+    //dev: 'arifszn',
+    //stackoverflow: '', // example: '1/jeff-atwood'
+    LeetCode: '<a href="https://leetcode.com/u/R3nch00/" target="_blank">R3nch00</a>',
+    //skype: '',
+    //telegram: '',
+    //website: 'https://www.arifszn.com',
+    phone: '+880 1846379259',
     email: 'omarfaysal458@gmail.com',
   },
   resume: {
