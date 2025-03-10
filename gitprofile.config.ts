@@ -62,7 +62,7 @@ const CONFIG = {
     udemy: 'omar-faysal-2',
     LeetCode: 'R3nch00',
     HackerRank: 'omarfaysal458',
-    Codeforcces: ''
+    Codeforcces: '',
     //website: 'https://www.arifszn.com',
     phone: '+880 1846379259',
     email: 'omarfaysal458@gmail.com',
