@@ -89,18 +89,18 @@ social: {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'ZXY International',
+      position: 'ERP Intern',
+      from: 'December 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://www.zxyinternational.com/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'GAOTek Inc.',
+      position: 'Virtual Technical Support',
+      from: 'January 2024',
+      to: 'April 2024',
+      companyLink: 'https://gaotek.com/',
     },
   ],
   certifications: [
@@ -113,17 +113,27 @@ social: {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'American International University-Bangladesh',
+      degree: 'BSc IN COMPUTER SCIENCE AND ENGINEERING',
+      from: '2020',
+      to: '2024',
+      CGPA: '3.48/4.00',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Adamjee Cantonment College',
+      degree: 'Higher Secondary School Certificate (HSC)',
+      from: '2017',
+      to: '2019',
+      GPA: '5.00/5.00',
     },
+    {
+      institution: 'Adamjee Cantonment Public School',
+      degree: 'Secondary School Certificate (SSC)',
+      from: '2015',
+      to: '2017',
+      GPA: '5.00/5.00',
+    },
+    
   ],
   publications: [
     {
