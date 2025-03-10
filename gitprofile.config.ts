@@ -58,7 +58,7 @@ const CONFIG = {
   },
   social: {
     linkedin: 'o-f-faisal',
-    x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
+    x: '@OmarFaysal10',
     //mastodon: 'arifszn@mastodon.social',
     //researchGate: '',
     //facebook: '',
@@ -66,13 +66,15 @@ const CONFIG = {
     //reddit: '',
     //threads: '',
     //youtube: '', // example: 'pewdiepie'
-    udemy: '<a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">omar-faysal</a>',
+    udemy: 'omar-faysal-2',
     //dribbble: '',
     //behance: '',
     //medium: 'arifszn',
     //dev: 'arifszn',
     //stackoverflow: '', // example: '1/jeff-atwood'
-    LeetCode: '<a href="https://leetcode.com/u/R3nch00/" target="_blank">R3nch00</a>',
+    LeetCode: 'R3nch00',
+    HackerRank: 'omarfaysal458',
+    
     //skype: '',
     //telegram: '',
     //website: 'https://www.arifszn.com',
