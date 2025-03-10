@@ -57,7 +57,7 @@ const CONFIG = {
     imageURL: '',
   },
   social: {
-    linkedin: '<a href="https://www.linkedin.com/in/o-f-faisal/" target="_blank">o-f-faisal</a>',
+    linkedin: 'o-f-faisal',
     x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
     //mastodon: 'arifszn@mastodon.social',
     //researchGate: '',
