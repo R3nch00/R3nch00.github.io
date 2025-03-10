@@ -56,7 +56,7 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
-const social = {
+const social : {
     linkedin: '<a href="https://www.linkedin.com/in/o-f-faisal/" target="_blank">o-f-faisal</a>',
     x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
     udemy: '<a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">omar-faysal</a>',
