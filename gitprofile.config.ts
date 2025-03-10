@@ -56,18 +56,50 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
-social : {
-    linkedin: '<a href="https://www.linkedin.com/in/o-f-faisal/" target="_blank">o-f-faisal</a>',
-    x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
-    udemy: '<a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">omar-faysal</a>',
-    coursera: '<a href="https://www.coursera.org/account-profile" target="_blank">Omar Faysal</a>',
+const social = {
+    linkedin: 'ariful-alam',
+    x: '@OmarFaysal10',
+    mastodon: 'arifszn@mastodon.social',
+    researchGate: '',
+    facebook: '',
+    instagram: '',
+    reddit: '',
+    threads: '',
+    youtube: '', // example: 'pewdiepie'
+    udemy: 'omar-faysal',
+    dribbble: '',
+    behance: '',
+    medium: 'arifszn',
+    dev: 'arifszn',
+    stackoverflow: '', // example: '1/jeff-atwood'
+    skype: '',
+    telegram: '',
     website: 'https://www.arifszn.com',
-    leetcode: '<a href="https://leetcode.com/u/R3nch00/" target="_blank">R3nch00</a>',
-    hackerrank: '<a href="https://www.hackerrank.com/profile/omarfaysal458" target="_blank">@omarfaysal458</a>',
-    codeforce:' <a href="https://codeforces.com/profile/R3nch0" target="_blank">@omarfaysal458</a>',
-    phone: '+880 1846379259',
+    leetcode: 'R3nch00',
+    phone: '',
     email: 'omarfaysal458@gmail.com',
-},
+};
+
+// HTML to render clickable links
+const htmlContent = `
+  <div>
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/ariful-alam" target="_blank">${social.linkedin}</a>
+  </div>
+  <div>
+    <!-- X (formerly Twitter) -->
+    <a href="https://twitter.com/OmarFaysal10" target="_blank">${social.x}</a>
+  </div>
+  <div>
+    <!-- Udemy -->
+    <a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">${social.udemy}</a>
+  </div>
+  <div>
+    <!-- LeetCode -->
+    <a href="https://leetcode.com/u/R3nch00/" target="_blank">${social.leetcode}</a>
+  </div>
+`;
+
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
