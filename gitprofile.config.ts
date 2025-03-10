@@ -89,7 +89,6 @@ const CONFIG = {
     'MySQL',
     'Git',
     'CSS',
-    'Tailwind',
     'C',
     'C++',
     'Python',
