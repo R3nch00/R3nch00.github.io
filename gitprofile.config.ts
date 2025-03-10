@@ -56,15 +56,17 @@ const CONFIG = {
     description: '',
     imageURL: '',
   },
- const social = {
-    linkedin: '<a href="https://www.linkedin.com/in/o-f-faisal/" target="_blank">o-f-faisal</a>',
-    x: '<a href="https://twitter.com/OmarFaysal10" target="_blank">@OmarFaysal10</a>',
-    udemy: '<a href="https://www.udemy.com/user/omar-faysal-2/" target="_blank">omar-faysal</a>',
-    website: 'https://www.arifszn.com',
-    leetcode: '<a href="https://leetcode.com/u/R3nch00/" target="_blank">R3nch00</a>',
+ social: {
+    linkedin: 'o-f-faisal',
+    x: '@OmarFaysal10',
+    udemy: 'omar-faysal-2',
+    LeetCode: 'R3nch00',
+    HackerRank: 'omarfaysal458',
+    Codeforcces: ''
+    //website: 'https://www.arifszn.com',
     phone: '+880 1846379259',
     email: 'omarfaysal458@gmail.com',
-};
+  },
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
