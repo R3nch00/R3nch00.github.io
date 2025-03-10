@@ -64,7 +64,7 @@ const social : {
     leetcode: '<a href="https://leetcode.com/u/R3nch00/" target="_blank">R3nch00</a>',
     phone: '+880 1846379259',
     email: 'omarfaysal458@gmail.com',
-}
+},
   resume: {
     fileUrl:
       'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
