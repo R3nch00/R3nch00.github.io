@@ -48,7 +48,6 @@ social: {
   email: 'omarfaysal458@gmail.com',
 },
 
-
   resume: {
     fileUrl:
       'https://drive.google.com/file/d/11jxDLbQgiqUgZzOwpqTCU4P1uR-AQyoq/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
@@ -215,6 +214,30 @@ social: {
     >GitProfile</a> and ❤️`,
 
   enablePWA: true,
+
+  sections: [
+    {
+      header: 'Coding Practice Platforms',
+      items: [
+        {
+          name: 'LeetCode',
+          url: 'https://leetcode.com/u/R3nch00/',
+          icon: 'fab fa-leetcode',
+        },
+        {
+          name: 'HackerRank',
+          url: 'https://www.hackerrank.com/profile/omarfaysal458',
+          icon: 'fab fa-hackerrank',
+        },
+        {
+          name: 'Codeforces',
+          url: 'https://codeforces.com/profile/R3nch0',
+          icon: 'fab fa-codeforces',
+        },
+      ],
+    },
+  ],
+  
 };
 
 export default CONFIG;
