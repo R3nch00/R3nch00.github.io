@@ -40,7 +40,7 @@ const CONFIG = {
 social: {
   linkedin: 'o-f-faisal',
   x: '@OmarFaysal10',
-  udemy: 'omar-faysal-2',
+  //udemy: 'omar-faysal-2',
   leetcode: 'R3nch00', // LeetCode profile
   hackerrank: 'omarfaysal458', // HackerRank profile
   codeforces: 'R3nch0', // Codeforces profile
