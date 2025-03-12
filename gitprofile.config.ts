@@ -38,16 +38,16 @@ const CONFIG = {
     imageURL: '',
   },
 social: {
-    linkedin: 'o-f-faisal',
-    x: '@OmarFaysal10',
-    udemy: 'omar-faysal-2',
-    LeetCode: 'R3nch00',
-    HackerRank: 'omarfaysal458',
-    Codeforcces: '',
-    //website: 'https://www.arifszn.com',
-    phone: '+880 1846379259',
-    email: 'omarfaysal458@gmail.com',
-  },
+  linkedin: 'o-f-faisal',
+  x: '@OmarFaysal10',
+  udemy: 'omar-faysal-2',
+  leetcode: 'R3nch00', // LeetCode profile
+  hackerrank: 'omarfaysal458', // HackerRank profile
+  codeforces: 'R3nch0', // Codeforces profile
+  phone: '+880 1846379259',
+  email: 'omarfaysal458@gmail.com',
+},
+
 
   resume: {
     fileUrl:
