@@ -50,7 +50,7 @@ social: {
 
   resume: {
     fileUrl:
-      'https://drive.google.com/file/d/11jxDLbQgiqUgZzOwpqTCU4P1uR-AQyoq/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
+      'https://drive.google.com/file/d/1gSDT5DP4T-G1X47Rx4oIWoySK4SMs911/view?usp=sharing', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PHP',
