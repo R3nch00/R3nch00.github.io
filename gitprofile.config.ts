@@ -72,7 +72,7 @@ social: {
       company: 'ZXY International',
       position: 'ERP Intern',
       from: 'December 2024',
-      to: 'Present',
+      to: 'May 2025',
       companyLink: 'https://www.zxyinternational.com/',
     },
     {
