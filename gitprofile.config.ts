@@ -56,6 +56,7 @@ social: {
     'PHP',
     'JavaScript',
     'MySQL',
+    'PostgreSQL',
     'Git',
     'CSS',
     'C',
